@@ -1,0 +1,21 @@
+[
+  {
+    "id": "383739",
+    "name_ar": "مانجا تجريبية 1",
+    "name_en": "Test Manga 1",
+    "cover": "https://huggingface.co/datasets/yourusername/manga-files/resolve/main/383739/cover.jpg",
+    "chapters": [
+      { "number": 1, "folder": "chapter1", "pages": 20 },
+      { "number": 2, "folder": "chapter2", "pages": 22 }
+    ]
+  },
+  {
+    "id": "384899",
+    "name_ar": "مانجا تجريبية 2",
+    "name_en": "Test Manga 2",
+    "cover": "https://huggingface.co/datasets/yourusername/manga-files/resolve/main/384899/cover.jpg",
+    "chapters": [
+      { "number": 1, "folder": "chapter1", "pages": 18 }
+    ]
+  }
+]
