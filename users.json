@@ -1,16 +1,17 @@
 {
   "users": [
     {
-      "google_id": "YZUnutrtBhWCRDONBGQItTSOXHV2",
+      "google_id": "946197",
       "email": "mangascript@gmail.com",
       "name": "المسؤول",
       "allowed_manga": ["383739", "384899"]
     },
     {
-      "google_id": "1234567890",
-      "email": "user@example.com",
+      "google_id": "203953",
+      "email": "ahmid0642@gmail.com",
       "name": "مستخدم عادي",
       "allowed_manga": ["383739"]
     }
   ]
+
 }
