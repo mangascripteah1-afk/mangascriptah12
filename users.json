@@ -4,14 +4,15 @@
       "google_id": "946197",
       "email": "mangascript@gmail.com",
       "name": "المسؤول",
-      "allowed_manga": ["383739", "384899"]
+      "allowed_manga": ["156384"]
     },
     {
       "google_id": "203953",
       "email": "ahmid0642@gmail.com",
       "name": "مستخدم عادي",
-      "allowed_manga": ["383739"]
+      "allowed_manga": ["156384"]
     }
   ]
 
 }
+
