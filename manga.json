@@ -1,5 +1,671 @@
 [
   {
+    "id": "444444",
+    "name_ar": "خالق البطاقة الإلهية",
+    "name_en": "Divine Card Creator",
+    "translators": "teamx الترجمة",
+    "description": "تحكي القصة عن \"لو مينغ\"، وهو مبرمج سابق توفي فجأة بسبب الإرهاق الناتج عن العمل المستمر لليالٍ طويلة. بعد وفاته، انتقل عبر الزمن إلى عالم آخر مليء بالقوى الخارقة، لكنه وجد نفسه يواجه ديوناً ضخمة بسبب ما يُعرف بـ \"فستان الفتاة الذكية\".​في هذا العالم الجديد، يجد \"لو مينغ\" نفسه بصفته \"صانع بطاقات\". وبفضل خلفيته",
+    "cover": "https://huggingface.co/datasets/yassirahmid/MSYAH/resolve/main/Divine%20Card%20Creator/cover.jpg",
+    "base_url": "https://huggingface.co/datasets/yassirahmid/MSYAH/resolve/main/Divine%20Card%20Creator",
+    "chapters": [
+      {
+        "number": 1,
+        "folder": "الفصل 1",
+        "pages": 11
+      },
+      {
+        "number": 2,
+        "folder": "الفصل 2",
+        "pages": 11
+      },
+      {
+        "number": 3,
+        "folder": "الفصل 3",
+        "pages": 10
+      },
+      {
+        "number": 4,
+        "folder": "الفصل 4",
+        "pages": 10
+      },
+      {
+        "number": 5,
+        "folder": "الفصل 5",
+        "pages": 10
+      },
+      {
+        "number": 6,
+        "folder": "الفصل 6",
+        "pages": 9
+      },
+      {
+        "number": 7,
+        "folder": "الفصل 7",
+        "pages": 10
+      },
+      {
+        "number": 8,
+        "folder": "الفصل 8",
+        "pages": 10
+      },
+      {
+        "number": 9,
+        "folder": "الفصل 9",
+        "pages": 8
+      },
+      {
+        "number": 10,
+        "folder": "الفصل 10",
+        "pages": 7
+      },
+      {
+        "number": 11,
+        "folder": "الفصل 11",
+        "pages": 6
+      },
+      {
+        "number": 12,
+        "folder": "الفصل 12",
+        "pages": 6
+      },
+      {
+        "number": 13,
+        "folder": "الفصل 13",
+        "pages": 6
+      },
+      {
+        "number": 14,
+        "folder": "الفصل 14",
+        "pages": 6
+      },
+      {
+        "number": 15,
+        "folder": "الفصل 15",
+        "pages": 7
+      },
+      {
+        "number": 16,
+        "folder": "الفصل 16",
+        "pages": 7
+      },
+      {
+        "number": 17,
+        "folder": "الفصل 17",
+        "pages": 7
+      },
+      {
+        "number": 18,
+        "folder": "الفصل 18",
+        "pages": 6
+      },
+      {
+        "number": 19,
+        "folder": "الفصل 19",
+        "pages": 9
+      },
+      {
+        "number": 20,
+        "folder": "الفصل 20",
+        "pages": 7
+      },
+      {
+        "number": 21,
+        "folder": "الفصل 21",
+        "pages": 7
+      },
+      {
+        "number": 22,
+        "folder": "الفصل 22",
+        "pages": 8
+      },
+      {
+        "number": 23,
+        "folder": "الفصل 23",
+        "pages": 5
+      },
+      {
+        "number": 24,
+        "folder": "الفصل 24",
+        "pages": 5
+      },
+      {
+        "number": 25,
+        "folder": "الفصل 25",
+        "pages": 5
+      },
+      {
+        "number": 26,
+        "folder": "الفصل 26",
+        "pages": 5
+      },
+      {
+        "number": 27,
+        "folder": "الفصل 27",
+        "pages": 4
+      },
+      {
+        "number": 28,
+        "folder": "الفصل 28",
+        "pages": 5
+      },
+      {
+        "number": 29,
+        "folder": "الفصل 29",
+        "pages": 4
+      },
+      {
+        "number": 30,
+        "folder": "الفصل 30",
+        "pages": 5
+      },
+      {
+        "number": 31,
+        "folder": "الفصل 31",
+        "pages": 6
+      },
+      {
+        "number": 32,
+        "folder": "الفصل 32",
+        "pages": 5
+      },
+      {
+        "number": 33,
+        "folder": "الفصل 33",
+        "pages": 7
+      },
+      {
+        "number": 34,
+        "folder": "الفصل 34",
+        "pages": 7
+      },
+      {
+        "number": 35,
+        "folder": "الفصل 35",
+        "pages": 4
+      },
+      {
+        "number": 36,
+        "folder": "الفصل 36",
+        "pages": 6
+      },
+      {
+        "number": 37,
+        "folder": "الفصل 37",
+        "pages": 5
+      },
+      {
+        "number": 38,
+        "folder": "الفصل 38",
+        "pages": 4
+      },
+      {
+        "number": 39,
+        "folder": "الفصل 39",
+        "pages": 4
+      },
+      {
+        "number": 40,
+        "folder": "الفصل 40",
+        "pages": 5
+      },
+      {
+        "number": 41,
+        "folder": "الفصل 41",
+        "pages": 4
+      },
+      {
+        "number": 42,
+        "folder": "الفصل 42",
+        "pages": 5
+      },
+      {
+        "number": 43,
+        "folder": "الفصل 43",
+        "pages": 4
+      },
+      {
+        "number": 44,
+        "folder": "الفصل 44",
+        "pages": 4
+      },
+      {
+        "number": 45,
+        "folder": "الفصل 45",
+        "pages": 5
+      },
+      {
+        "number": 46,
+        "folder": "الفصل 46",
+        "pages": 5
+      },
+      {
+        "number": 47,
+        "folder": "الفصل 47",
+        "pages": 5
+      },
+      {
+        "number": 48,
+        "folder": "الفصل 48",
+        "pages": 5
+      },
+      {
+        "number": 49,
+        "folder": "الفصل 49",
+        "pages": 5
+      },
+      {
+        "number": 50,
+        "folder": "الفصل 50",
+        "pages": 5
+      },
+      {
+        "number": 51,
+        "folder": "الفصل 51",
+        "pages": 5
+      },
+      {
+        "number": 52,
+        "folder": "الفصل 52",
+        "pages": 5
+      },
+      {
+        "number": 53,
+        "folder": "الفصل 53",
+        "pages": 5
+      },
+      {
+        "number": 54,
+        "folder": "الفصل 54",
+        "pages": 5
+      },
+      {
+        "number": 55,
+        "folder": "الفصل 55",
+        "pages": 5
+      },
+      {
+        "number": 56,
+        "folder": "الفصل 56",
+        "pages": 5
+      },
+      {
+        "number": 57,
+        "folder": "الفصل 57",
+        "pages": 5
+      },
+      {
+        "number": 58,
+        "folder": "الفصل 58",
+        "pages": 5
+      },
+      {
+        "number": 59,
+        "folder": "الفصل 59",
+        "pages": 4
+      },
+      {
+        "number": 60,
+        "folder": "الفصل 60",
+        "pages": 5
+      },
+      {
+        "number": 61,
+        "folder": "الفصل 61",
+        "pages": 5
+      },
+      {
+        "number": 62,
+        "folder": "الفصل 62",
+        "pages": 5
+      },
+      {
+        "number": 63,
+        "folder": "الفصل 63",
+        "pages": 5
+      },
+      {
+        "number": 64,
+        "folder": "الفصل 64",
+        "pages": 5
+      },
+      {
+        "number": 65,
+        "folder": "الفصل 65",
+        "pages": 4
+      },
+      {
+        "number": 66,
+        "folder": "الفصل 66",
+        "pages": 4
+      },
+      {
+        "number": 67,
+        "folder": "الفصل 67",
+        "pages": 5
+      },
+      {
+        "number": 68,
+        "folder": "الفصل 68",
+        "pages": 5
+      },
+      {
+        "number": 69,
+        "folder": "الفصل 69",
+        "pages": 5
+      },
+      {
+        "number": 70,
+        "folder": "الفصل 70",
+        "pages": 5
+      },
+      {
+        "number": 71,
+        "folder": "الفصل 71",
+        "pages": 5
+      },
+      {
+        "number": 72,
+        "folder": "الفصل 72",
+        "pages": 4
+      },
+      {
+        "number": 73,
+        "folder": "الفصل 73",
+        "pages": 6
+      },
+      {
+        "number": 74,
+        "folder": "الفصل 74",
+        "pages": 8
+      },
+      {
+        "number": 75,
+        "folder": "الفصل 75",
+        "pages": 4
+      },
+      {
+        "number": 76,
+        "folder": "الفصل 76",
+        "pages": 10
+      },
+      {
+        "number": 77,
+        "folder": "الفصل 77",
+        "pages": 10
+      },
+      {
+        "number": 78,
+        "folder": "الفصل 78",
+        "pages": 7
+      },
+      {
+        "number": 79,
+        "folder": "الفصل 79",
+        "pages": 8
+      },
+      {
+        "number": 80,
+        "folder": "الفصل 80",
+        "pages": 9
+      },
+      {
+        "number": 81,
+        "folder": "الفصل 81",
+        "pages": 9
+      },
+      {
+        "number": 82,
+        "folder": "الفصل 82",
+        "pages": 8
+      },
+      {
+        "number": 83,
+        "folder": "الفصل 83",
+        "pages": 8
+      },
+      {
+        "number": 84,
+        "folder": "الفصل 84",
+        "pages": 8
+      },
+      {
+        "number": 85,
+        "folder": "الفصل 85",
+        "pages": 8
+      },
+      {
+        "number": 86,
+        "folder": "الفصل 86",
+        "pages": 6
+      },
+      {
+        "number": 87,
+        "folder": "الفصل 87",
+        "pages": 8
+      },
+      {
+        "number": 88,
+        "folder": "الفصل 88",
+        "pages": 8
+      },
+      {
+        "number": 89,
+        "folder": "الفصل 89",
+        "pages": 8
+      },
+      {
+        "number": 90,
+        "folder": "الفصل 90",
+        "pages": 8
+      },
+      {
+        "number": 91,
+        "folder": "الفصل 91",
+        "pages": 7
+      },
+      {
+        "number": 92,
+        "folder": "الفصل 92",
+        "pages": 7
+      },
+      {
+        "number": 93,
+        "folder": "الفصل 93",
+        "pages": 7
+      },
+      {
+        "number": 94,
+        "folder": "الفصل 94",
+        "pages": 7
+      },
+      {
+        "number": 95,
+        "folder": "الفصل 95",
+        "pages": 7
+      },
+      {
+        "number": 96,
+        "folder": "الفصل 96",
+        "pages": 7
+      },
+      {
+        "number": 97,
+        "folder": "الفصل 97",
+        "pages": 7
+      },
+      {
+        "number": 98,
+        "folder": "الفصل 98",
+        "pages": 7
+      },
+      {
+        "number": 99,
+        "folder": "الفصل 99",
+        "pages": 7
+      },
+      {
+        "number": 100,
+        "folder": "الفصل 100",
+        "pages": 8
+      },
+      {
+        "number": 101,
+        "folder": "الفصل 101",
+        "pages": 9
+      },
+      {
+        "number": 102,
+        "folder": "الفصل 102",
+        "pages": 8
+      },
+      {
+        "number": 103,
+        "folder": "الفصل 103",
+        "pages": 8
+      },
+      {
+        "number": 104,
+        "folder": "الفصل 104",
+        "pages": 7
+      },
+      {
+        "number": 105,
+        "folder": "الفصل 105",
+        "pages": 7
+      },
+      {
+        "number": 106,
+        "folder": "الفصل 106",
+        "pages": 8
+      },
+      {
+        "number": 107,
+        "folder": "الفصل 107",
+        "pages": 7
+      },
+      {
+        "number": 108,
+        "folder": "الفصل 108",
+        "pages": 8
+      },
+      {
+        "number": 109,
+        "folder": "الفصل 109",
+        "pages": 9
+      },
+      {
+        "number": 110,
+        "folder": "الفصل 110",
+        "pages": 8
+      },
+      {
+        "number": 111,
+        "folder": "الفصل 111",
+        "pages": 8
+      },
+      {
+        "number": 112,
+        "folder": "الفصل 112",
+        "pages": 9
+      },
+      {
+        "number": 113,
+        "folder": "الفصل 113",
+        "pages": 8
+      },
+      {
+        "number": 114,
+        "folder": "الفصل 114",
+        "pages": 8
+      },
+      {
+        "number": 115,
+        "folder": "الفصل 115",
+        "pages": 10
+      },
+      {
+        "number": 116,
+        "folder": "الفصل 116",
+        "pages": 9
+      },
+      {
+        "number": 117,
+        "folder": "الفصل 117",
+        "pages": 10
+      },
+      {
+        "number": 118,
+        "folder": "الفصل 118",
+        "pages": 8
+      },
+      {
+        "number": 119,
+        "folder": "الفصل 119",
+        "pages": 8
+      },
+      {
+        "number": 120,
+        "folder": "الفصل 120",
+        "pages": 8
+      },
+      {
+        "number": 121,
+        "folder": "الفصل 121",
+        "pages": 7
+      },
+      {
+        "number": 122,
+        "folder": "الفصل 122",
+        "pages": 9
+      },
+      {
+        "number": 123,
+        "folder": "الفصل 123",
+        "pages": 6
+      },
+      {
+        "number": 124,
+        "folder": "الفصل 124",
+        "pages": 5
+      },
+      {
+        "number": 125,
+        "folder": "الفصل 125",
+        "pages": 6
+      },
+      {
+        "number": 126,
+        "folder": "الفصل 126",
+        "pages": 4
+      },
+      {
+        "number": 127,
+        "folder": "الفصل 127",
+        "pages": 10
+      },
+      {
+        "number": 128,
+        "folder": "الفصل 128",
+        "pages": 9
+      },
+      {
+        "number": 129,
+        "folder": "الفصل 129",
+        "pages": 9
+      },
+      {
+        "number": 130,
+        "folder": "الفصل 130",
+        "pages": 10
+      },
+      {
+        "number": 131,
+        "folder": "الفصل 131",
+        "pages": 11
+      }
+    ]
+  },
+  {
     "id": "222222",
     "name_ar": "محاكاة زراعة الشياطين السماوية",
     "name_en": "Heavenly Demon Cultivation Simulation",
